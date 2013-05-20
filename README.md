@@ -4,7 +4,7 @@
 ## 이 문서는 idiomatic.js (https://github.com/rwldrn/idiomatic.js) 를 기반으로 한 undefine:D JavaScript Style Guide 문서입니다.
 
 * idiomatic.js [원본](https://github.com/rwldrn/idiomatic.js/blob/master/readme.md)
-” idiomatic.js [한글번역본](https://github.com/rwldrn/idiomatic.js/tree/master/translations/ko_KR)
+* idiomatic.js [한글번역본](https://github.com/rwldrn/idiomatic.js/tree/master/translations/ko_KR)
 
 
 ## 여러 사람이 작성한 코드라도, 모든 코드는 한 명이 작성한 것처럼 일관성을 유지해야 합니다.
